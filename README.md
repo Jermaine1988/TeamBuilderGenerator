@@ -21,3 +21,6 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated# TeamBuilderGenerator
+
+
+![Teambuilder](https://user-images.githubusercontent.com/105750913/182945528-b8a3f62a-e7dd-4944-82cf-970274d1d982.png)

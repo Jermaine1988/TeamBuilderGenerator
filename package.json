@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "inquirer": "^8.2.4",
+    "main": "index.js"
+  },
+
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
